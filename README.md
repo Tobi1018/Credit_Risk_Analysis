@@ -66,4 +66,4 @@ Using my knowledge of the imbalanced-learn and scikit-learn libraries, I used a 
 ### Summary
   *
 ### Recomedation
-  *
+  * I would suggest using the ensemble classifiers over the models. Easy Ensemble had the best balance of all the models because of its high accuracy score and a good balance of precision and recall scores.
