@@ -5,6 +5,10 @@ The purpose of this project is to analyze the credit card credit dataset from Le
 
 # Deliverable 1: Use Resampling Models to Predict Credit Risk.
 Using my knowledge of the imbalanced-learn and scikit-learn libraries, I evaluate three machine learning models by using resampling to determine which is better at predicting credit risk. Use the oversampling RandomOverSampler and SMOTE algorithms, and then use the undersampling ClusterCentroids algorithm. Using these algorithms, I resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
+
+# Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
+Using my knowledge of the imbalanced-learn and scikit-learn libraries, I used a combinatorial approach of over-and undersampling with the SMOTEENN algorithm to determine if the results from the combinatorial approach are better at predicting credit risk than the resampling algorithms from Deliverable 1. Using the SMOTEENN algorithm, I resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
+
 ## RandomOversampling
 ![ram1](https://user-images.githubusercontent.com/58860105/145740329-532eab4e-b00e-44e4-9b2a-289e48b8c755.PNG)
 
