@@ -38,6 +38,13 @@
 
 
 ## Balanced Random Forest Classifier
+![balance1](https://user-images.githubusercontent.com/58860105/145740510-317bbfab-5347-4653-8672-6ee0054fae0a.PNG)
+
+![balance2](https://user-images.githubusercontent.com/58860105/145740519-3d120029-7a81-4961-9e4e-8a990c9ce2a6.PNG)
+
+![balance3](https://user-images.githubusercontent.com/58860105/145740527-b9ab8418-880e-47f5-8791-00a7f60e2e69.PNG)
+
+
 
 ## Easy Ensemble AdaBoost Classifier
 
