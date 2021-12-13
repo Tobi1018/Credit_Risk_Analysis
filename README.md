@@ -1,4 +1,7 @@
 # Credit_Risk_Analysis
+## Project Overview
+
+The purpose of this project is to analyze the credit card credit dataset from LendingClub, a peer-to-peer lending services company, Then using oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, use a combinatorial approach of over-and undersampling using the SMOTEENN algorithm. Next, compare two new machine learning models that reduce bias, BalancedRandomForestClassifier, and EasyEnsembleClassifier, to predict credit risk. 
 
 # Deliverable 1: Use Resampling Models to Predict Credit Risk.
 Using my knowledge of the imbalanced-learn and scikit-learn libraries, I evaluate three machine learning models by using resampling to determine which is better at predicting credit risk. Use the oversampling RandomOverSampler and SMOTE algorithms, and then use the undersampling ClusterCentroids algorithm. Using these algorithms, I resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
