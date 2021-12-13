@@ -62,4 +62,8 @@ Using my knowledge of the imbalanced-learn and scikit-learn libraries, I used a 
 ![nwe3](https://user-images.githubusercontent.com/58860105/145741379-2a250b29-1b46-406a-bc09-09f78070eff7.PNG)
 
 
-## Summary 
+
+### Summary
+  *
+### Recomedation
+  *
