@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-
+# Deliverable 1: Use Resampling Models to Predict Credit Risk.
 ## RandomOversampling
 ![ram1](https://user-images.githubusercontent.com/58860105/145740329-532eab4e-b00e-44e4-9b2a-289e48b8c755.PNG)
 
