@@ -64,6 +64,6 @@ Using my knowledge of the imbalanced-learn and scikit-learn libraries, I used a 
 
 
 ### Summary
-  *
+  * To determine which model is best at predicting high-risk loans, we undersampled, oversampled, and combined both. Using ensemble classifiers, we resampled the data using the next two models in order to predict which loans are high or low risk. Oversampling, undersampling, and mixed models have low recall and our accuracy score is not as high as ensemble classifiers.
 ### Recomedation
   * I would suggest using the ensemble classifiers over the models. Easy Ensemble had the best balance of all the models because of its high accuracy score and a good balance of precision and recall scores.
