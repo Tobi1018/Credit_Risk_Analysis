@@ -4,6 +4,14 @@
 ## RandomOversampling
 
 ## SMOTE Oversampling
+![smotth1](https://user-images.githubusercontent.com/58860105/145740134-25c8227c-9b32-43b3-a58e-9eaacb9ebeaf.PNG)
+
+![smotth2](https://user-images.githubusercontent.com/58860105/145740135-4d69add9-6531-444c-b0c9-86470c3f6a7e.PNG)
+
+![smotth3](https://user-images.githubusercontent.com/58860105/145740147-9d66f827-1c6a-4fae-b926-f878e2937a44.PNG)
+
+
+
 
 ## Undersampling
 ![undersamp1](https://user-images.githubusercontent.com/58860105/145739757-d2043743-c4d0-4a65-ab1e-8029d48ca087.PNG)
