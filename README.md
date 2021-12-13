@@ -47,5 +47,11 @@
 
 
 ## Easy Ensemble AdaBoost Classifier
+![nwe1](https://user-images.githubusercontent.com/58860105/145741366-d0c2662f-6358-45a2-9ffd-e29926365e56.PNG)
+
+![nwe2](https://user-images.githubusercontent.com/58860105/145741373-a64aff0e-083e-4989-a629-19a145c962c9.PNG)
+
+![nwe3](https://user-images.githubusercontent.com/58860105/145741379-2a250b29-1b46-406a-bc09-09f78070eff7.PNG)
+
 
 
